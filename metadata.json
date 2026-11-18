@@ -1,0 +1,6 @@
+{
+  "name": "CareerIntel AI",
+  "description": "AI-Powered Career Intelligence and Placement Prediction System with resume PDF parsing, academic performance analytics, skill gap analysis, personalized learning roadmaps, and placement officer administration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
